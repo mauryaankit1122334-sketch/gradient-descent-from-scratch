@@ -106,10 +106,10 @@ python animation.py
 * Visualization helps in understanding optimization behavior
 
 ### Cost vs Iterations
-![Cost](images/cost.png)
+![Cost](images/learning_rate_comparison.png)
 
 ### 3D Cost Surface
-![3D](images/3d_plot.png)
+![3D](images/cost.png)
 
 ### Noisy Data Fit
 ![Noisy](images/noisy_data.png)
