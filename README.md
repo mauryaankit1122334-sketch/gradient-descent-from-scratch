@@ -105,6 +105,15 @@ python animation.py
 * Mini-batch provides balanced performance
 * Visualization helps in understanding optimization behavior
 
+### Cost vs Iterations
+![Cost](images/cost.png)
+
+### 3D Cost Surface
+![3D](images/3d_plot.png)
+
+### Noisy Data Fit
+![Noisy](images/noisy_data.png)
+
 ---
 
 ## Concepts Covered
@@ -114,7 +123,7 @@ python animation.py
 * Gradient Descent Optimization
 * Learning Rate
 * Convergence
-* Batch vs SGD vs Mini-batch
+*  SGD vs Mini-batch
 * Data Normalization
 
 ---
